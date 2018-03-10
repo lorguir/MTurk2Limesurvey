@@ -20,6 +20,11 @@ For example, (refer to [SURVEY_ID](https://github.com/lorguir/MTurk2Limesurvey/w
 
 	https://example.com/index.php?r=survey/index&sid=521424&newtest=Y&521424X3X34=test
 
+If your survey is multi-language, you'll need to specify the language in the link by appending `&lang=[language_code]`
+e.g. English survey,
+
+	https://example.com/index.php?r=survey/index&sid=521424&newtest=Y&lang=en&521424X3X34=test
+
 The generated HIT page is extremely simple:
 
 ![alt text](https://github.com/ianhussey/MTurk2Limesurvey/blob/master/Screenshot.png "Screenshot")
