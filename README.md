@@ -14,8 +14,8 @@ This code passes html5 validation using https://validator.w3.org, and as such ca
 
 The generated HIT page is extremely simple:
 
-![alt text](https://github.com/ianhussey/MTurk2Limesurvey/blob/master/Screenshot.png "Screenshot")
+![alt text](https://github.com/lorguir/MTurk2Limesurvey/blob/master/Screenshot.png "Screenshot")
 
 To capture the workerID in Limesurvey, refer to the wiki page [workerID](https://github.com/lorguir/MTurk2Limesurvey/wiki/workerID).
 
-To generate and capture the completion code in Limesurvey, refer to the wiki page [Completion Code](https://github.com/lorguir/MTurk2Limesurvey/wiki/Completion-Code)
+To generate and capture the completion code in Limesurvey, refer to the wiki page [Completion Code](https://github.com/lorguir/MTurk2Limesurvey/wiki/Completion-Code).
