@@ -10,12 +10,8 @@ A solution for surveys hosted on Qualtrix can be found [here](http://sapir.psych
 This code passes html5 validation using https://validator.w3.org, and as such can generate an AMT Layout ID. 
 
 ### Usage
-`MTurk2Limesurvey.html` should be placed in the AMT requester web interface under `Create > Edit project > Design layout > Source`.
+To capture the completion code in MTurk, refer to [MTurk](https://github.com/lorguir/MTurk2Limesurvey/wiki/MTurk).
 
-The generated HIT page is extremely simple:
+To capture the workerID in Limesurvey, refer to [workerID](https://github.com/lorguir/MTurk2Limesurvey/wiki/workerID).
 
-![alt text](https://github.com/lorguir/MTurk2Limesurvey/blob/master/Screenshot.png "Screenshot")
-
-To capture the workerID in Limesurvey, refer to the wiki page [workerID](https://github.com/lorguir/MTurk2Limesurvey/wiki/workerID).
-
-To generate and capture the completion code in Limesurvey, refer to the wiki page [Completion Code](https://github.com/lorguir/MTurk2Limesurvey/wiki/Completion-Code).
+To generate and capture the completion code in Limesurvey, refer to [Completion Code](https://github.com/lorguir/MTurk2Limesurvey/wiki/Completion-Code).
